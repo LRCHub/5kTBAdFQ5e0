@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "台湾ロマンス",
+  "base_artist": "Awesome City Club",
+  "createdAt": "2026-02-23T14:38:00.435216Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "台湾ロマンス",
+      "artist": "Awesome City Club",
+      "has_synced": false,
+      "path": "select/01_台湾ロマンス_Awesome_City_Club.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "台湾ロマンス",
+      "artist": "Awesome City Club",
+      "has_synced": false,
+      "path": "select/pl_01_台湾ロマンス_Awesome_City_Club.txt"
+    }
+  ]
+}
